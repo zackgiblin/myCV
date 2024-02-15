@@ -8,6 +8,7 @@
 
 ## Education
 **Temple University | PhD Biology**
+
 *Spring 2022 - Current*
 - Graduate Advisor: Matthew Helmus
 - Thesis: "Modeling climate change effects on the establishment of the invasive *L. delicatula*"
