@@ -1,12 +1,11 @@
 # **CURRICULUM VITAE**
 ## **Samuel M. Owens**
-#### **PhD Biology Student**
+### **PhD Biology Student**
 
-CONTACT INFORMATION		      
-_Integrative Ecology Lab_ 
-
-Department of Biology | Center for Biodiversity
-
-Temple University
-
+Contact Information      
 [WEBSITE](https://sites.temple.edu/smowens/) | [EMAIL](mailto:sam.owens@temple.edu)
+- _Integrative Ecology Lab_ 
+- Department of Biology | Center for Biodiversity
+- Temple University
+
+
