@@ -25,3 +25,15 @@
 
 ## Research Projects
 Modeling climate change effects on the establishment of the invasive *L. delicatula*
+*Spring 2022 - Current*
+
+My project takes data science approach to tackle a biological issue. Invasive species are increasingly prevalent, and a massive amount of data has been compiled about invasion trends, so techniques need to be developed to utilize these biological datasets. I use the machine-learning software “MaxEnt” to make predictions about the risk of spread for L. delicatula, both currently and under climate change. I am developing this invasion prediction framework into an R package and website that will be freely distributed. 
+
+Toxicological effects of atrazine and glyphosate on a crayfish ectosymbiont (C. ingens)	
+*Summer - Fall 2018*
+
+Toxicological effects of atrazine on the Appalachian Brook Crayfish (C. b. bartonii)		
+*Fall 2015- Spring 2018*
+
+## Grants
+
