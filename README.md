@@ -1,2 +1,3 @@
-# myCV
-My academic Curriculum Vitae
+# **CURRICULUM VITAE**
+## **Samuel M. Owens**
+### **PhD Biology Student**
