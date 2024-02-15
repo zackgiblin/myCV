@@ -67,7 +67,8 @@ Research Grant award to support research on the effects of low-level Atrazine ex
 -	Created and taught a guest lecture
 -	Taught basics of GIS analysis in R coding language using packages such as terra and stars'
 
-ORAL PRESENTATIONS 																					
+
+## Oral Presentations																				
 
 “Low Level Atrazine Exposure Effects on Crayfish Development.” Presented at Big South Undergraduate Research Symposium, Spring 8th Annual Meeting, April 14, 2018.
 
@@ -89,6 +90,7 @@ ORAL PRESENTATIONS
 -	Collaborated with other interns to perform survey according to National Park surveying method, various other methods
 -	Analyzed large dataset for trends in abundance, performed statistical analysis for project
 -	Produced professional poster for RARGOM conference (won best poster in Ecology)
+
 
 ## Professional Experience																			
 
