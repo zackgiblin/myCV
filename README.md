@@ -1,3 +1,4 @@
 # **CURRICULUM VITAE**
-**Samuel M. Owens**
-**PhD Biology Student**
+## **Samuel M. Owens**
+#### **PhD Biology Student**
+
