@@ -92,7 +92,7 @@ Research Grant award to support research on the effects of low-level Atrazine ex
 -	Produced professional poster for RARGOM conference (won best poster in Ecology)
 
 
-## Professional Experience																			
+## Work Experience																			
 
 **Laboratory Manager** 
 
